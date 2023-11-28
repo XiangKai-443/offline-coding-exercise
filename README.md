@@ -1,7 +1,7 @@
 # offline-coding-exercise
 Its a simple To Do Application for single user to record down the things they want to do include with various category, priority, due date and so on
 
-This apps is using c#, .net, mvc and also entity framework
+This apps is using c#, .net, mvc and also entity framework at Microsoft Visual Studio
 
 using some model to perform dropdown and store their id in ToDos but retrieve the whole description in front-end
 
